@@ -1,1 +1,1 @@
-# Demo
+# Experimenting with the power of Git & VSCode!
